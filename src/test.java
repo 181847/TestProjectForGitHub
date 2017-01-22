@@ -4,6 +4,7 @@ public class test {
 		System.out.println("Hello World");
 		//测试信息
 		//AIDE测试信息
+		//Eclipse测试信息
 	}
 
 }
